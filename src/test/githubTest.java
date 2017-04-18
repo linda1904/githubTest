@@ -6,7 +6,6 @@ public class githubTest {
 		
 		System.out.println("1.HEllo, Java World!");
 		System.out.println("2.Hello, Java World!");
-		System.out.println("");
 		
 		
 	}
