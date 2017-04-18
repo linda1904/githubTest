@@ -8,8 +8,7 @@ public class githubTest {
 		System.out.println("2.Hello, Java World!");
 		System.out.println("3.Hello, Java World!");
 		
-		System.out.println("-------------------------------------------------");
-
+		
 	}
 
 }
